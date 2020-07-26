@@ -11,3 +11,4 @@
 - [Monads for Functional Programming (Wadler)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/wadler_monads.pdf)
 - [Dynamic Typing as Staged Type Inference (Shields, Sheard, Jones)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/dynamic_static_typing.pdf)
 - [What You Needa Know about Yoneda: Profunctor Optics and the Yoneda Lemma (Boisseau, Gibbons)](https://github.com/SamuelSchlesinger/functional-programming-resoures/blob/master/yoneda.pdf)
+- [Algebraic Graphs with Class (Andrey Mokhov)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/algebraic-graphs.pdf) 
