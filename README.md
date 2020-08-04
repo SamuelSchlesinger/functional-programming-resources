@@ -13,3 +13,4 @@
 - [What You Needa Know about Yoneda: Profunctor Optics and the Yoneda Lemma (Boisseau, Gibbons)](https://github.com/SamuelSchlesinger/functional-programming-resoures/blob/master/yoneda.pdf)
 - [Algebraic Graphs with Class (Andrey Mokhov)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/algebraic-graphs.pdf) 
 - [Ode on a Random Urn (Lampropoulos, Spector-Zabusky)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/urns.pdf) 
+- [Probabilistic Functional Programming in Haskell (Erwig, Kollmansberger)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/probabilistic-programming.pdf) 
