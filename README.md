@@ -14,3 +14,5 @@
 - [Algebraic Graphs with Class (Andrey Mokhov)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/algebraic-graphs.pdf) 
 - [Ode on a Random Urn (Lampropoulos, Spector-Zabusky)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/urns.pdf) 
 - [Probabilistic Functional Programming in Haskell (Erwig, Kollmansberger)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/probabilistic-programming.pdf) 
+- [The Reduceron (Matthew Naylor and Colin Runciman)](https://github.com/SamuelSchlesinger/functional-programming-resources/blob/master/reduceron.pdf)
+
